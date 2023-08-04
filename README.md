@@ -2,6 +2,7 @@
 
 ```
  Use Next.js 13 App Router and Server side Rendering
+
 - Implement Advanced Search Functionality
 - Create Filtering Capabilities
 - Optimize Metadata and SEO
